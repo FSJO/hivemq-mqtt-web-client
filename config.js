@@ -1,2 +1,2 @@
-websocketserver = 'broker.mqttdashboard.com';
-websocketport = 8000;
+websocketserver = "mqtt.bitraf.no";
+websocketport = 9001;
